@@ -3,7 +3,7 @@
 # @Time    : 2020/3/16 9:54
 # @Author  : ChenSiFan
 # @Site    : 
-# @File    : getColor.py
+# @File    : get_color.py
 # @Software: PyCharm
 from PIL import ImageGrab
 import time
